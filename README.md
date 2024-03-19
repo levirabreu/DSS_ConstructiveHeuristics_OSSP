@@ -52,7 +52,7 @@ Some of the decision support system's features:
 Contributors names and contact info.
   
 * [@Levi R. Abreu](https://scholar.google.com.br/citations?user=hbm0KAoAAAAJ)
-* [@Marcelo S. Nagano](https://scholar.google.com.br/citations?user=hbm0KAoAAAAJ)
+* [@Marcelo S. Nagano](https://scholar.google.com.br/citations?user=3BFXZQoAAAAJ)
 
 ## Version History
 
