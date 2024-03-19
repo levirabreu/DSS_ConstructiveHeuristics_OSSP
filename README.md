@@ -51,7 +51,9 @@ Contributors names and contact info.
 ## Version History
 
 * 0.1
-    * Initial Release
+    * Initial Release.
+*0.2
+	* Fix icon image in window icon and title bar.
 
 ## License
 
@@ -60,4 +62,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments
 
 * [Lab LAOR from EESC-USP](http://www.laor.prod.eesc.usp.br/)
-* [Lab OPL from UFC](http://www.opl.ufc.br/)
+* [Lab OPL from UFC](http://www.opl.ufc.br/en/)
