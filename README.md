@@ -52,7 +52,7 @@ Contributors names and contact info.
 
 * 0.1
     * Initial Release.
-*0.2
+* 0.2
 	* Fix icon image in window icon and title bar.
 
 ## License
