@@ -1,6 +1,12 @@
+<img align="left" width="220" src="https://raw.githubusercontent.com/levirabreu/DSS_ConstructiveHeuristics_OSSP/main/software_icon.ico" />
+
 # A decision support system based on constructive heuristics for Open shop scheduling problem with makespan minimization
 
 Open shop scheduling problem solver - makespan minimization
+
+## Software Overview
+
+<img align="center" width="800" src="https://s5.ezgif.com/tmp/ezgif-5-45b8473103.gif" />
 
 ## Description
 
