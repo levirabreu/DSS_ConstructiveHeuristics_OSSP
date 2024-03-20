@@ -6,7 +6,7 @@ Open shop scheduling problem solver - makespan minimization
 
 ## Software Overview
 
-<img align="center" width="800" src="https://s5.ezgif.com/tmp/ezgif-5-45b8473103.gif" />
+<img align="center" width="800" src="https://github.com/levirabreu/DSS_ConstructiveHeuristics_OSSP/blob/main/OSSP_solver_software_overview.gif?raw=true" />
 
 ## Description
 
