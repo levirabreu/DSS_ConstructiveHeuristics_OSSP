@@ -12,7 +12,7 @@ Open shop scheduling problem solver - makespan minimization
 
 A solver for the production scheduling problem in an open shop environment with makespan minimization. 
 
-The algorithm used to solve the problem is the Minimal Idleness Heuristic with cheap InSerTion procedure [MIH-IST] (see the article by [Abreu et a. (2022)](https://doi.org/10.1016/j.cor.2022.105744)).
+The algorithm used to solve the problem is the Minimal Idleness Heuristic with cheap InSerTion procedure [MIH-IST] (see the article by [Abreu et al. (2022)](https://doi.org/10.1016/j.cor.2022.105744)).
 
 ## Getting Started
 
