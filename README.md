@@ -63,7 +63,7 @@ Contributors names and contact info.
 	
 ## Intellectual Property Rights
 
-This project is registered with Brazil's national intellectual property institute under the code BR512024000879-9.
+This project is registered with Brazil's national intellectual property institute (INPI) under the code BR512024000879-9.
 
 ## License
 
