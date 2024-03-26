@@ -63,7 +63,7 @@ Contributors names and contact info.
 	
 ## Intellectual Property Rights
 
-This project is registered with Brazil's National Intellectual Property Institute (INPI) under the code BR512024000879-9.
+This project is registered with Brazil's National Intellectual Property Institute (INPI) under the code [BR512024000879-9](https://github.com/levirabreu/DSS_ConstructiveHeuristics_OSSP/blob/main/certificado_5120240008791711456278463.pdf).
 
 ## License
 
