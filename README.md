@@ -60,6 +60,10 @@ Contributors names and contact info.
     * Initial Release.
 * 0.2
 	* Fix icon image in window icon and title bar.
+	
+## Intellectual Property Rights
+
+This project is registered with Brazil's national intellectual property institute under the code BR512024000879-9.
 
 ## License
 
